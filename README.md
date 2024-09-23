@@ -12,7 +12,7 @@ The application includes a  landing page showing about me, my education backgrou
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](https://k-koech.github.io/portfolio-sdft11/)
+* You can view the web live on [Portfolio](https://hafsa-0-abdy.github.io/Habsas-Portfolio/Index.html)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -24,7 +24,7 @@ HTML, CSS ,GIT
 email ::habsa.abdirizack@student.moringaschool.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
+*LIcenced under the [MT-licence](https://github.com/hafsa/portfolio-sdft11/blob/master/LICENSE.md)*
 
 Copyright (c) 2024 **Habsa Abdirizack**# my-portfolio
 # my-portfolio
